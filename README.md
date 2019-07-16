@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Loli Sekai - Another World
 
-You can use the [editor on GitHub](https://github.com/lolisekai/lolisekai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Why not [Follow Me](https://twitter.com/loli_sekai) and be [Friends](https://www.facebook.com/abcloliexo) .
 
 ### Markdown
 
